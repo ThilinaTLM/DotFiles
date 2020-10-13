@@ -1,0 +1,13 @@
+
+
+alias copy="rsync -ah --progress"
+
+alias cls="clear"
+alias cd..="cd .."
+
+PUBLIC_KEY="~/.ssh/awslinux.pem"
+HOST="ec2-54-237-84-93.compute-1.amazonaws.com"
+USERNAME="ubuntu"
+alias connect_remote="ssh -i ${PUBLIC_KEY} ${USERNAME}@${HOST}"
+
+alias pcopy="~/scripts/pcopy.py "

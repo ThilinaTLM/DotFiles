@@ -1,12 +1,17 @@
 # Pacman Packages
+discord
 github-cli
+make
 open-jdk-8
 open-jdk-14
 vim
+wmctrl
+xdotool
 
 # AUR Packages
 insomnia
 zoom
+libinput-gestures
 
 # Manually installations -------------------------------------------------------------
 
