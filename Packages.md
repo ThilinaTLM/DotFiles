@@ -23,3 +23,6 @@ WebStrom (/opt)
 PyCharm (/opt)
 
 vim-plug (.vim)
+
+# Other
+br10.xml - Bridge Network Configuration
